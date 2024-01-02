@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "linux",
+			"description": "CDN for linux",
+			"domain_files": ["linux.txt"]
 		}
 	]
 }
