@@ -1,3 +1,4 @@
+deb.debian.org
 ftp.halifax.rwth-aachen.de
 ppa.launchpadcontent.net
 archive.linux.duke.edu
