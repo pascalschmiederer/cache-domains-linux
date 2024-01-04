@@ -1,4 +1,6 @@
 deb.debian.org
+packages.deepin.com
+http.kali.org
 ftp.halifax.rwth-aachen.de
 ppa.launchpadcontent.net
 archive.linux.duke.edu
